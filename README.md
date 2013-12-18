@@ -10,6 +10,10 @@ Authors: @cmdr2 & @kalyan02
 
 Old proj home: https://code.google.com/p/lsystem-js/
 
-[fractal-plant-demo](http://jeromeetienne.github.io/lsystem-js/fractal-plant-demo.html)
 
-[parser-tool](http://jeromeetienne.github.io/lsystem-js/parser-tool.html)
+## Show, Don't Tell
+
+here are the demos
+
+* [fractal-plant-demo](http://jeromeetienne.github.io/lsystem-js/fractal-plant-demo.html)
+* [parser-tool](http://jeromeetienne.github.io/lsystem-js/parser-tool.html)
